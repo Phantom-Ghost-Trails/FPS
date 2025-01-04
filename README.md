@@ -1,1 +1,1 @@
-These are some about QRcode things.
+These are some about FPS things.
